@@ -1,5 +1,7 @@
 {
   "name": "frontnews",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
